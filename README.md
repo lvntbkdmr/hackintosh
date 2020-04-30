@@ -26,3 +26,11 @@ https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configura
 
 # ACPI
 https://dortania.github.io/Getting-Started-With-ACPI/
+
+# Tools
+
+#### gfxutil
+https://github.com/acidanthera/gfxutil/releases
+
+#### macinfo
+https://github.com/acidanthera/MacInfoPkg/releases
