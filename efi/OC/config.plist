@@ -735,7 +735,7 @@
 		<array>
 			<string>ApfsDriverLoader.efi</string>
 			<string>AudioDxe.efi</string>
-			<string>FwRuntimeServices.efi</string>
+			<string>OpenRuntime.efi</string>
 			<string>VBoxHfs.efi</string>
 		</array>
 		<key>Audio</key>
