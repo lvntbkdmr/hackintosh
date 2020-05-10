@@ -1,5 +1,9 @@
 # hackintosh
 
+# OpenCore
+https://github.com/acidanthera/OpenCorePkg/releases/
+https://github.com/acidanthera/applesupportpkg/releases
+
 # Kexts
 
 #### AppleALC
